@@ -560,7 +560,7 @@ toTagList tagString =
 
        To see if the bug is fixed, visit http://localhost:3000/#/editor
        (you'll need to be logged in) and create an article with tags that have
-       multiple spaces between them, e.g. "tag1     tag2     tag3"
+       multiple spaces between them, e.g. "tag1      tag2     tag3"
 
        If the bug has not been fixed, trying to save an article with those tags
        will result in an error! If it has been fixed, saving will work and the
